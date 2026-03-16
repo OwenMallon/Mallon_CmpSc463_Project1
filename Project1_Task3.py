@@ -34,6 +34,7 @@ def maxSubarray(arr):
             temp_start = i
         else:
             current_sum += arr[i]
+
         if current_sum > max_sum:
             max_sum = current_sum
             start = temp_start

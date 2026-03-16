@@ -9,9 +9,6 @@
     machine behavior and relate the results to four machine‑health categories derived from RUL (Remaining Useful Life).
 """
 import pandas as pd
-import random
-import matplotlib.pyplot as plt
-import numpy as np
 import Project1_Task1 as tk1
 import Project1_Task2 as tk2
 import Project1_Task3 as tk3
